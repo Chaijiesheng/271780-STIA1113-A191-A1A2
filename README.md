@@ -9,7 +9,7 @@
 
 
 # FlowChart
-Flow Chart.png
+https://github.com/Chaijiesheng/271780-STIA1113-A191-A1A2/blob/master/Flow%20Chart.png
 	
 	
 		
